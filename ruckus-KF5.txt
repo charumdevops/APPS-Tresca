@@ -1,0 +1,21 @@
+RuckusAP-4-MASTER-PANTRY [4c:b1:cd:08:71:00]
+radio 5GHz Current Channel(802.11a/n/ac)153
+radio 2.4GHz Current Channel(802.11b/g/n)4
+
+RuckusAP-1-MEETING-DREAM [4c:b1:cd:08:6e:60]
+radio 5GHz Current Channel(802.11a/n/ac)157
+radio 2.4GHz Current Channel(802.11b/g/n)3
+
+RuckusAP-2-MEETING-CUSTOMER [4c:b1:cd:08:f5:00]
+radio 5GHz Current Channel(802.11a/n/ac)153
+radio 2.4GHz Current Channel(802.11b/g/n)1
+
+RuckusAP-3-PANTRY [4c:b1:cd:08:57:20]
+radio 5GHz Current Channel(802.11a/n/ac)157
+radio 2.4GHz Current Channel(802.11b/g/n)8
+
+AMAR-BANK-KF5
+200miosmiles
+Standard
+Open
+WPA2
